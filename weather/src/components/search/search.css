@@ -1,0 +1,13 @@
+.async-paginate__container {
+    color: black;
+}
+
+.async-paginate__control {
+    border-radius: 25px !important; /* Add rounded corners */
+    padding: 5px; /* Adjust padding to make the border-radius effect more visible */
+    border-color: none !important;
+}
+
+.async-paginate__option--is-selected {
+    border-color: none !important;
+}
